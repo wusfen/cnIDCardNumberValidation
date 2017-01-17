@@ -13,7 +13,7 @@
  * @param  {String} idStr - 身份证号码
  * @return {false|Object} - 合法则返回信息(省，生日，性别)，否则 false
  */
-cnIDCardNumberValidate(str);
+cnIDCardNumberValidate(str)
 ```
 
 ## USAGE
