@@ -1,3 +1,6 @@
+/*!
+ * https://github.com/wusfen/cnIDCardNumberValidation
+ */
 /*
 refer:
 http://baike.baidu.com/link?url=71WUNChZmbegzlvx6ltfJ-5bN_PC5gNU4mttf2xkmS0ua8_vlnDRvFdtGdUJK2p7S-BONoFsbQ-hf9WhvXNxR8KEDfH4ddHLLRmDfp5kKlRXtCDBkBg7uC24tMFI9w_MrLs8QWCflM7SgUdLRgR7NfDHHHvEs2TlerpqI3D4jl6O9nDxIKmGwkq-jiSS6qXleQoJ_qtYCuXETYvN66rwwO-LLFd8C_iGV-CfTKGc4aNVUtavZvp0bJlfnKdh9F1V
