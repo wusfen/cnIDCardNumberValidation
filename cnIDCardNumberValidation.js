@@ -60,7 +60,7 @@ http://baike.baidu.com/link?url=71WUNChZmbegzlvx6ltfJ-5bN_PC5gNU4mttf2xkmS0ua8_v
         '5-6': 0,
         // 生日
         '7-14': function(dateStr) {
-            dateStr = dateStr.replace(/(\d{4}|\d{2})(?=\d)/g, '$1-');
+            dateStr = dateStr.replace(/(\d{4}|\d{2})(?=\d)/g, '$1/');
             var date = new Date(dateStr);
             var x = new Date('x') + '';
             return date == x ? null : dateStr;
